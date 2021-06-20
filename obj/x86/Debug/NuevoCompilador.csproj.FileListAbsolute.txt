@@ -1,0 +1,6 @@
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/bin/Debug/NuevoCompilador.exe
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/bin/Debug/NuevoCompilador.pdb
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/obj/x86/Debug/NuevoCompilador.csprojAssemblyReference.cache
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/obj/x86/Debug/NuevoCompilador.csproj.CoreCompileInputs.cache
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/obj/x86/Debug/NuevoCompilador.exe
+/home/saul/Escritorio/NuevoCompilador/NuevoCompilador/NuevoCompilador/obj/x86/Debug/NuevoCompilador.pdb

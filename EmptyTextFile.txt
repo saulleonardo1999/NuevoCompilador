@@ -1,0 +1,9 @@
+﻿program{
+  int x;
+  x=0;
+  do {
+    if(x>0 {
+      x=x+1;
+    } fi
+  } until(x>0);
+}
